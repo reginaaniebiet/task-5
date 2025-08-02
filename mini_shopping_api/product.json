@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 450.75
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "price": 250.30
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 99.99
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 180.00
+  },
+  {
+    "id": 5,
+    "name": "USB Cable",
+    "price": 12.49
+  }
+]
