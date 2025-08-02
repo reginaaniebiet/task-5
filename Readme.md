@@ -91,7 +91,7 @@ http://127.0.0.1:8000/docs
 
 ### 💼 Task 3: Job Application Tracker
 
-- Add job applications
+- Add job application
 - Search by `status`  
 - JSON file: `applications.json`
 
