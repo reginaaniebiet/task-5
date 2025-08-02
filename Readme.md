@@ -83,7 +83,7 @@ http://127.0.0.1:8000/docs
 - JSON files: `product.json`, `cart.json`
 
 **Endpoints**:
-- `GET /products/` → List products
+- `GET /products/` → List product
 - `POST /cart/add?product_id=1&qty=2` → Add to cart
 - `GET /cart/checkout` → Total cost
 
